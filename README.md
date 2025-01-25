@@ -8,7 +8,8 @@ Après l'installation, l'extension apparait bien sur Excel :
 ![image](https://github.com/user-attachments/assets/94ac04bc-823f-4562-880d-ea48c65acfe5)
 
 ## Source de donnée
-[Les données sou](https://fr.wikipedia.org/wiki/Liste_des_champions_du_monde_de_ski_alpin_par_%C3%A9preuve) 
+Les données sont extraites à partir de ce lien :
+https://fr.wikipedia.org/wiki/Liste_des_champions_du_monde_de_ski_alpin_par_%C3%A9preuve
 
 ## But
 Créer un fichier permettant de filtrer, trier et analyser des informations sur les champions du monde de ski alpin par épreuve, année ou encore le genre.
@@ -22,4 +23,5 @@ Créer un fichier permettant de filtrer, trier et analyser des informations sur 
 ## Important : 
 Les manipulations effectuées sur PowerQuery n'apparaissent pas dans cette description.
 Le but étant de montrer un projet oû les données sont importés à partir d'un lien wikipedia aboutissant à un fichier excel qui permet d'effectuer différents types de filtrage. 
+
 
