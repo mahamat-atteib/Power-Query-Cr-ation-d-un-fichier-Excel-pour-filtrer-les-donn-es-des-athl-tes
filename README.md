@@ -5,6 +5,7 @@ Avant toute chose, on va installé l'extention de "PowerQuery" sur Excel à part
 
 J'ai choisi la version 64 bits correspondant à mon système d'exploitation.
 Après l'installation, l'extension apparait bien sur Excel :
+
 ![image](https://github.com/user-attachments/assets/94ac04bc-823f-4562-880d-ea48c65acfe5)
 
 ## Source de donnée
@@ -16,13 +17,14 @@ Créer un fichier permettant de filtrer, trier et analyser des informations sur 
 
 ## Résultat final
 Après plusieurs manipulations sur PowerQuery, on aboutit à ce résultat :
+
 ![image](https://github.com/user-attachments/assets/5c2e0187-c9e5-462d-b91e-c69b008a9a3e)
 
-## test : filtrage par année
+## test
 A supposer qu'on veut obtenir les athlètes des années 70.
 ![image](https://github.com/user-attachments/assets/33054c73-114d-4d67-90aa-62fcdb25c540)
 
-## Important : 
+## Important
 Les manipulations effectuées sur PowerQuery n'apparaissent pas dans cette description.
 Le but étant de montrer un projet oû les données sont importés à partir d'un lien wikipedia aboutissant à un fichier excel qui permet d'effectuer différents types de filtrage. 
 
