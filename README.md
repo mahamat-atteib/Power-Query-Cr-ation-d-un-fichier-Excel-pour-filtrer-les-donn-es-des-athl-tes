@@ -15,9 +15,11 @@ https://fr.wikipedia.org/wiki/Liste_des_champions_du_monde_de_ski_alpin_par_%C3%
 Créer un fichier permettant de filtrer, trier et analyser des informations sur les champions du monde de ski alpin par épreuve, année ou encore le genre.
 
 ## Résultat final
+Après plusieurs manipulations sur PowerQuery, on aboutit à ce résultat :
 ![image](https://github.com/user-attachments/assets/5c2e0187-c9e5-462d-b91e-c69b008a9a3e)
 
-## test : filtrage par année : obtenir les athlètes des années 70.
+## test : filtrage par année
+A supposer qu'on veut obtenir les athlètes des années 70.
 ![image](https://github.com/user-attachments/assets/33054c73-114d-4d67-90aa-62fcdb25c540)
 
 ## Important : 
