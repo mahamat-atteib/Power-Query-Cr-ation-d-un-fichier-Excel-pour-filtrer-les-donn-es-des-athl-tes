@@ -22,6 +22,7 @@ Après plusieurs manipulations sur PowerQuery, on aboutit à ce résultat :
 
 ## test
 A supposer qu'on veut obtenir les athlètes des années 70.
+
 ![image](https://github.com/user-attachments/assets/33054c73-114d-4d67-90aa-62fcdb25c540)
 
 ## Important
