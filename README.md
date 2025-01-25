@@ -27,6 +27,6 @@ A supposer qu'on veut obtenir les athlètes des années 70.
 
 ## Important
 Les manipulations effectuées sur PowerQuery n'apparaissent pas dans cette description.
-Le but étant de montrer un projet oû les données sont importés à partir d'un lien wikipedia aboutissant à un fichier excel qui permet d'effectuer différents types de filtrage. 
+Le but étant de montrer un projet oû les données sont importés à partir d'un lien wikipedia aboutissant à un fichier excel qui permet d'effectuer différents types de filtrage. Au lieu de consulter la page Wikepedia pour glaner des informations qui ne sont pas claires, il serait mieux d'utiliser le fichier excel, résultat final.
 
 
